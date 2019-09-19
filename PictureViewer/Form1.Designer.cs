@@ -36,7 +36,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
             this.Name = "Form1";
-            this.Text = "Imogen View";
+            this.Text = "Imogen Viewer";
             this.ResumeLayout(false);
 
         }
